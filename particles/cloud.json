@@ -1,0 +1,65 @@
+{
+	"configName":"cloud",
+	"textureFileName":"images/particles/cloud-particle.png",
+	"emitterType":0,
+	"maxParticles":50,
+
+	"duration":-1,
+	"particleLifespan":4,
+	"particleLifespanVariance":2.4,
+
+	"speed":5,
+	"speedVariance":0,
+
+	"startParticleSize":200,
+	"finishParticleSize":10,
+	"startParticleSizeVariance":38,
+	"finishParticleSizeVariance":20,
+	"rotationStart":0,
+	"rotationEnd":6,
+	"rotationStartVariance":0,
+	"rotationEndVariance":0,
+
+	"sourcePositionVariancex":100,
+	"sourcePositionVariancey":40,
+
+	"startColorRed":0,
+	"startColorGreen":0,
+	"startColorBlue":0,
+	"startColorVarianceRed":0,
+	"startColorVarianceGreen":0,
+	"startColorVarianceBlue":0,
+	"finishColorRed":1,
+	"finishColorGreen":1,
+	"finishColorBlue":1,
+	"finishColorVarianceRed":0,
+	"finishColorVarianceGreen":0,
+	"finishColorVarianceBlue":0,
+
+	"startColorAlpha":0.4,
+	"finishColorAlpha":0,
+	"startColorVarianceAlpha":0,
+	"finishColorVarianceAlpha":0,
+
+	"blendFuncSource":770,
+	"blendFuncDestination":1,
+
+	"angle":155,
+	"angleVariance":360,
+
+	"gravityx":10,
+	"gravityy":0,
+
+	"minRadius":0,
+	"maxRadius":0,
+	"minRadiusVariance":0,
+	"maxRadiusVariance":0,
+
+	"radialAcceleration":0,
+	"radialAccelVariance":0,
+	"tangentialAcceleration":0,
+	"tangentialAccelVariance":0,
+
+	"rotatePerSecond":0,
+	"rotatePerSecondVariance":0,
+}

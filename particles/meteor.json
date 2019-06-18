@@ -1,0 +1,65 @@
+{
+	"configName":"meteor",
+	"textureFileName":"images/particles/meteor-particle.png",
+	"emitterType":0,
+	"maxParticles":200,
+
+	"duration":2,
+	"particleLifespan":0.4,
+	"particleLifespanVariance":0.3,
+
+	"speed":0,
+	"speedVariance":0,
+
+	"startParticleSize":50,
+	"finishParticleSize":25,
+	"startParticleSizeVariance":50,
+	"finishParticleSizeVariance":20,
+	"rotationStart":0,
+	"rotationEnd":0,
+	"rotationStartVariance":0,
+	"rotationEndVariance":0,
+
+	"sourcePositionVariancex":0,
+	"sourcePositionVariancey":10,
+
+	"startColorRed":1,
+	"startColorGreen":0,
+	"startColorBlue":0,
+	"startColorVarianceRed":0,
+	"startColorVarianceGreen":0,
+	"startColorVarianceBlue":0,
+	"finishColorRed":1,
+	"finishColorGreen":1,
+	"finishColorBlue":0,
+	"finishColorVarianceRed":0,
+	"finishColorVarianceGreen":0,
+	"finishColorVarianceBlue":0,
+
+	"startColorAlpha":0.62,
+	"finishColorAlpha":0,
+	"startColorVarianceAlpha":0,
+	"finishColorVarianceAlpha":0,
+
+	"blendFuncSource":770,
+	"blendFuncDestination":1,
+
+	"angle":0,
+	"angleVariance":0,
+
+	"gravityx":10,
+	"gravityy":0,
+
+	"minRadius":0,
+	"maxRadius":0,
+	"minRadiusVariance":0,
+	"maxRadiusVariance":0,
+
+	"radialAcceleration":0,
+	"radialAccelVariance":0,
+	"tangentialAcceleration":0,
+	"tangentialAccelVariance":0,
+
+	"rotatePerSecond":0,
+	"rotatePerSecondVariance":0,
+}

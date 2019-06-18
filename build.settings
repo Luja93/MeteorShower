@@ -1,0 +1,26 @@
+settings = {
+	orientation =
+	{
+		default = "landscapeLeft",
+		supported = { "landscapeLeft" },
+	},
+	
+	iphone =
+	{
+		plist=
+		{
+			UIStatusBarHidden=true,
+			UIApplicationExitsOnSuspend = true
+		},
+	},
+	
+	android =
+    {
+		
+        usesPermissions =
+        {
+           
+        },
+    },
+	
+}
